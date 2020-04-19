@@ -13,6 +13,7 @@ Developer: Simon Gonzalez
 Email: simon.gonzalez@anu.edu.au
 <br/>
 Institution: The Australian National University
+URL: https://phoneapps.shinyapps.io/languageFeature/
 
 ## Acknowledgements
 Special thanks to Steve Moran for comments on the content and references to source data.

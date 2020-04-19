@@ -16,3 +16,6 @@ Institution: The Australian National University
 
 ## Acknowledgements
 Special thanks to Steve Moran for comments on the content and references to source data.
+
+## Citing the app
+Simon Gonzalez. (2020, April 19). simongonzalez/languageFeatureApp: languageFeatureApp (Version v1.0).

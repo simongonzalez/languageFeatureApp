@@ -1,5 +1,5 @@
 # languageFeatureApp
-Interface of feature visualisation from PHOIBLE and WALS datbases
+Interface of feature visualisation from PHOIBLE and WALS databases
 
 This app is a minimalistic yet practical interface which helps the visualision of features from the PHOIBLE project and the World Atlas of Language Structures (WALS).<br/><br/>The app has two visualisation components. The first one is a world map which shows the feature distribution of languages. A bar chart is combined with the map to help observe feature counts. The second componet is the network visualisation. It helps observe relationships between languages based on multiple features.<br/><br/>All the information from the projects as well as the data where it was taken from can be found in the following website links:
 
